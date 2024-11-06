@@ -1,6 +1,5 @@
 # Morphis DeepFake Project
-![Screen Recording 2024-11-04 at 7 52 31 AM](https://github.com/user-attachments/assets/80cfd6b6-7988-486b-8d65-54ae0dbf601b)
-
+<img width="975" alt="Screenshot 2024-11-06 at 7 18 40 PM" src="https://github.com/user-attachments/assets/835ed984-4b5a-4a23-aec7-77e785333e5d">
 
 
 ## Overview
