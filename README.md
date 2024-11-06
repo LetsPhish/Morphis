@@ -1,4 +1,7 @@
 # Morphis DeepFake Project
+![Screen Recording 2024-11-04 at 7 52 31 AM](https://github.com/user-attachments/assets/80cfd6b6-7988-486b-8d65-54ae0dbf601b)
+
+
 
 ## Overview
 **Morphis** is an advanced video conferencing application that demonstrates real-time face swapping using deepfake technology. This project utilizes InsightFace for face detection and face swapping, offering a GPU-optimized experience where available, or fallback to CPU processing. Built with PyQt5, the application provides a clean, user-friendly interface that displays the live video feed, with an option to toggle face swapping in real-time.
